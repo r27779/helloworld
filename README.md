@@ -1,2 +1,5 @@
 Hello World!
-Added a second line to the file
+
+This is an amazing repository
+
+This is the text I typed directly from the browser in GitHub
